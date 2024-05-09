@@ -22,7 +22,7 @@ int main()
     cout << "\n\n\n\t\t   CASINO GAME\n\n";
     cout << "\t     THIS PROJECT IS CREATED \n\n";
     cout << "\t\t       BY\n";
-    cout << "  SHUBHAM KUMAR ROY, UTSAV KUMAR SINGH & MOIZE ALAM \n\n";
+    cout << "  SHUBHAM KUMAR ROY & UTSAV KUMAR SINGH  \n\n";
     drawLine(60,'*');
  
     cout << "\n\nEnter Your Name : ";
